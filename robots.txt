@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /thinknest/wp-admin/
+Allow: /thinknest/wp-admin/admin-ajax.php
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /thinknest/category/
+
+Sitemap: https://jeeltn.github.io/thinknest/sitemap.xml
+# ---------------------------
+# END YOAST BLOCK
